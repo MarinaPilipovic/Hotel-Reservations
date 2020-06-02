@@ -44,7 +44,7 @@ public class Main {
         Date date26=new Date(0,4);
         hotel2.booking(date26);
 
-      
+
         System.out.println("----------------------------------");
         // 3
         Hotel hotel3=new Hotel(3);
